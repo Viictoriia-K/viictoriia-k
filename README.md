@@ -21,7 +21,7 @@
 
 -  **[Спецификация требований для приложения](https://github.com/Viictoriia-K/chatty-srs-v2/tree/main)** — SRS с Use Case, FR, глоссарием
 -  **[Моделирование данных интернет-магазина](https://github.com/Viictoriia-K/nakarabine-er-diagram)** — ER-диаграмма в 3НФ, словарь данных
--  **Цифровизация процессов сети клиник** — MVP, DFD, прототип в Figma
+-  **[Цифровизация процессов сети клиник](https://github.com/Viictoriia-K/vita-clinic-backlog/tree/main)** — MVP, DFD, прототип в Figma
 -  **Постановка задачи для стримингового сервиса** — Sequence Diagram, Swagger
 -  **Требования и прототип умного дома** — полный пакет документации
 ---
