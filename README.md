@@ -25,6 +25,5 @@
 -  **[Моделирование процессов сети клиник](https://github.com/Viictoriia-K/vita-clinic-bpmn/tree/main)** — BPMN AS-IS и TO-BE, диаграмма состояний
 -  **[Постановка задачи для стримингового сервиса](https://github.com/Viictoriia-K/otium-api-task/tree/main)** — Sequence Diagram, Swagger
 -  **[Требования и прототип умного дома](https://github.com/Viictoriia-K/stets-home-requirements/tree/main)** — полный пакет документации
--  
 ---
 **Открыта к предложениям** | Готова к тестовому заданию и собеседованиям
