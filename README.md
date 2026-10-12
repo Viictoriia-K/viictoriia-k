@@ -22,7 +22,9 @@
 -  **[Спецификация требований для приложения](https://github.com/Viictoriia-K/chatty-srs-v2/tree/main)** — SRS с Use Case, FR, глоссарием
 -  **[Моделирование данных интернет-магазина](https://github.com/Viictoriia-K/nakarabine-er-diagram)** — ER-диаграмма в 3НФ, словарь данных
 -  **[Цифровизация процессов сети клиник](https://github.com/Viictoriia-K/vita-clinic-backlog/tree/main)** — MVP, DFD, прототип в Figma
+-  **[Моделирование процессов сети клиник](https://github.com/Viictoriia-K/vita-clinic-bpmn/tree/main)** — BPMN AS-IS и TO-BE, диаграмма состояний
 -  **[Постановка задачи для стримингового сервиса](https://github.com/Viictoriia-K/otium-api-task/tree/main)** — Sequence Diagram, Swagger
 -  **[Требования и прототип умного дома](https://github.com/Viictoriia-K/stets-home-requirements/tree/main)** — полный пакет документации
+-  
 ---
 **Открыта к предложениям** | Готова к тестовому заданию и собеседованиям
